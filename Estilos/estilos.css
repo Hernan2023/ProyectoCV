@@ -1,0 +1,26 @@
+ body{background: linear-gradient(to right,rgb(240, 184, 2),rgb(255, 208, 0), rgb(255, 193, 0),rgb(255, 190, 23));}
+        /* h1{border:18px ridge red;-->
+        }*/
+        
+        /* otra opción de degradado de fondo es 
+        background: linear-gradient(to right,rgb(110, 113, 114),rgb(245, 244, 240), rgb(167, 164, 158),rgb(247, 245, 242));*/
+p{
+    color: rgb(157, 255, 127);
+    font-family: 'Gill Sans','Gill Sans MT','Trebuchet MS',sans-serif, 'Cambria';
+}
+form{
+    border: 3px solid;
+    padding: 12px;
+    margin: 22px;
+    width: 345px;
+    ;}
+img{
+    width: 1190px;
+    height: 492px;
+    visibility: visible; z-index: -100; position: fixed; top: 0px; left: 0px; overflow: hidden; transform: translate3d(0px, 0.5625px, 0px);
+}
+button{padding:1px;
+    color:rgb(127, 135, 13);
+font-family: "Comic Sans MS", cursive, sans-serif;    
+}
+   

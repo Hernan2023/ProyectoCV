@@ -1,0 +1,20 @@
+ *{ box-sizing:border-box;} *{
+    color:rgb(226, 43, 226);word-spacing: 4px;font-stretch:ultra-expanded;
+}
+section{
+    font-size: 20px;
+    border: 6px rgb(236, 143, 236) ridge;
+    padding-left: 5px;
+    margin: 40px;
+}
+#seccion2{
+    font-size: 20px; 
+    border: 6px rgb(234, 0, 255) ridge;
+    padding-left: 5px;
+    margin-left: 40px;
+}
+.clasep1desecc1,.clasep1desecc2 {
+    color: rgb(77, 143, 51)
+}
+h1{ background: linear-gradient(to left, blue, green, rgb(18, 223, 18));
+}

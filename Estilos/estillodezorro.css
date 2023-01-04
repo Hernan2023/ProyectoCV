@@ -1,0 +1,14 @@
+section{
+    width: 380px;
+    border: 15px solid;
+    border-color:rgb(56, 90, 79);
+    padding: 4px;
+    margin: 3px 12px 6px 160px;
+}
+h1{margin: 1px 2px 3px 150px;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+p{
+color: rgb(21, 46, 48);
+}
